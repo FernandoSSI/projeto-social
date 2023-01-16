@@ -63,3 +63,7 @@ main{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
     transition: .3s, border 0.1s ;
 }
+
+#redes-sociais > a{
+    background-size: cover;
+}
